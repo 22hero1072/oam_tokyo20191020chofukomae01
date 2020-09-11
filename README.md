@@ -8,3 +8,9 @@
 
 
 XYZ Tile: https://tiles.openaerialmap.org/5dae8f8573c69f000530ee6f/0/5dae8f8573c69f000530ee70/{z}/{x}/{y}
+
+
+# License:
+© DRONEBIRD/CrisisMappers Japan, CC BY 4.0
+
+https://creativecommons.org/licenses/by/4.0/deed.ja
