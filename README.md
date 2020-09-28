@@ -5,7 +5,7 @@
 
 
 * ひなたGIS: https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#878I5aUw0yrp
-＊ XYZ Tile: https://tiles.openaerialmap.org/5dae8f8573c69f000530ee6f/0/5dae8f8573c69f000530ee70/{z}/{x}/{y}
+* XYZ Tile: https://tiles.openaerialmap.org/5dae8f8573c69f000530ee6f/0/5dae8f8573c69f000530ee70/{z}/{x}/{y}
 * [作業用バックアップデータ(関係者のみ)](https://drive.google.com/drive/u/1/folders/1sIRu6TI4fPR3jLQo1Onb4K4-xLBbB7nV)
 
 # License:
